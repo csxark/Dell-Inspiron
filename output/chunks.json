@@ -1,0 +1,202 @@
+[
+    {
+        "chunk_id": "chunk_1",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 1,
+        "section_name": "Prepared By",
+        "content": "Prepared By\n\nhttps://sample-files.com +123-456-7890"
+    },
+    {
+        "chunk_id": "chunk_2",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 3,
+        "section_name": "Executive Summary",
+        "content": "Executive Summary\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis consectetur tempor. Aenean alique t sapien ex, pharetra consequat arcu tristique vitae. Nam quis porta ex. Donec porttitor at sem nec sollicitudin. Ut vel commodo tortor, sagittis egestas nisl. Donec quam mauris, tristique non tempus vitae, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi."
+    },
+    {
+        "chunk_id": "chunk_3",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 3,
+        "section_name": "Executive Summary",
+        "content": "Maecenas suscipit vulputate varius. Nam lacinia leo felis, quis hendrerit tortor dignissim quis. Morbi egestas rhoncus lectus. Ut nec mauri s diam. Aenean gravida, est non ornare interdum, libe ro nibh accumsan nibh, sed commodo erat orci ac tellus. Aenean iaculis urna nec metus sodales consectetur. Quisque lacinia dui vitae purus condimentum dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+        "chunk_id": "chunk_4",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 4,
+        "section_name": "Introduction",
+        "content": "Introduction\n\nNam quis porta ex. Donec porttitor at sem nec sollicitudin. Ut vel commodo tortor, sagittis egesta s nisl. Donec quam mauris, tristique non tempus vita e, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi."
+    },
+    {
+        "chunk_id": "chunk_5",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 5,
+        "section_name": "Product Overview",
+        "content": "Product Overview\n\nNam quis porta ex. Donec porttitor at sem nec sollicitudin. Ut vel commodo tortor, sagittis egesta s nisl. Donec quam mauris, tristique non tempus vita e, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi."
+    },
+    {
+        "chunk_id": "chunk_6",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 5,
+        "section_name": "Integer et justo velus. Ut in ipsum ac risus. Maecenas iaculis. Ut nec mauris vel. Tellus accumsan.",
+        "content": "Integer et justo velus. Ut in ipsum ac risus. Maecenas iaculis. Ut nec mauris vel. Tellus accumsan. Integer et justo velus. Ut in ipsum ac risus. Maecenas iaculis. Ut nec mauris vel. Tellus accumsan. Integer et justo velus. Ut in ipsum ac risus. Maecenas iaculis. Ut nec mauris vel. Tellus accumsan. Integer et justo velus. Ut in ipsum ac risus. Maecenas iaculis. Ut nec mauris vel. Tellus accumsan."
+    },
+    {
+        "chunk_id": "chunk_7",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 6,
+        "section_name": "Market Analysis",
+        "content": "Market Analysis\n\nNam quis porta ex. Donec porttitor at sem nec sollicitudin."
+    },
+    {
+        "chunk_id": "chunk_8",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 6,
+        "section_name": "Market Analysis",
+        "content": "Ut vel commodo tortor, sagittis egesta s nisl. Donec quam mauris, tristique non tempus vita e, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi. Maecenas suscipit vulputate varius."
+    },
+    {
+        "chunk_id": "chunk_9",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 7,
+        "section_name": "Competitor Analysis",
+        "content": "Competitor Analysis\n\nVivamus orci mi, venenatis quis diam sed, scelerisque accumsan lacus. Curabitur eu dictum neque, sit ame t rutrum velit."
+    },
+    {
+        "chunk_id": "chunk_10",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 7,
+        "section_name": "Competitor Analysis",
+        "content": "In aliquam orci a ante hendrerit, v el egestas ligula interdum. Ut pulvinar ornare dapibus. Suspendisse nec cursus libero, at hendrerit eros."
+    },
+    {
+        "chunk_id": "chunk_11",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 8,
+        "section_name": "Marketing Strategy",
+        "content": "Marketing Strategy\n\nTristique non tempus vitae, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi."
+    },
+    {
+        "chunk_id": "chunk_12",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 9,
+        "section_name": "Sales Projections",
+        "content": "Sales Projections\n\nTristique non tempus vitae, ornare sed mauris. Etiam blandit tempor metus, at vehicula nisi."
+    },
+    {
+        "chunk_id": "chunk_13",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 10,
+        "section_name": "Launch Timeline",
+        "content": "Launch Timeline\n\nVivamus ac nunc vitae nulla molestie sodales. Proin sit amet rhoncus lacus."
+    },
+    {
+        "chunk_id": "chunk_14",
+        "chunk_type": "text",
+        "source_file": "sample.pdf",
+        "page_number": 10,
+        "section_name": "Launch Timeline",
+        "content": "Cras non erat imperdiet sapien porttitor aliquam nec ut velit."
+    },
+    {
+        "chunk_id": "chunk_15",
+        "chunk_type": "table",
+        "source_file": "sample.pdf",
+        "page_number": 8,
+        "section_name": "Table 1 (Page 8)",
+        "content": "| Column 1 |\n| --- |\n|  |"
+    },
+    {
+        "chunk_id": "chunk_16",
+        "chunk_type": "table",
+        "source_file": "sample.pdf",
+        "page_number": 8,
+        "section_name": "Table 2 (Page 8)",
+        "content": "| Column 1 | Column 2 |\n| --- | --- |"
+    },
+    {
+        "chunk_id": "chunk_17",
+        "chunk_type": "table",
+        "source_file": "sample.pdf",
+        "page_number": 9,
+        "section_name": "Table 1 (Page 9)",
+        "content": "| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |"
+    },
+    {
+        "chunk_id": "chunk_18",
+        "chunk_type": "table",
+        "source_file": "sample.pdf",
+        "page_number": 9,
+        "section_name": "Table 2 (Page 9)",
+        "content": "| Metric | Sales |\n| --- | --- |\n| Market Size | $50 Billion |\n| User Satisfaction | 85% |\n| Growth Rate | 10% |"
+    },
+    {
+        "chunk_id": "chunk_19",
+        "chunk_type": "table",
+        "source_file": "sample.pdf",
+        "page_number": 10,
+        "section_name": "Table 1 (Page 10)",
+        "content": "| Column 1 | Column 2 |\n| --- | --- |"
+    },
+    {
+        "chunk_id": "chunk_20",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 3,
+        "section_name": "Figure 1",
+        "content": "The image shows a man dressed in a suit and tie, wearing glasses, and holding a coffee cup with a logo on it. He is standing against a plain, light-colored background. The man has short, dark hair and a slight smile on his face. The overall setting appears to be professional and casual at the same time."
+    },
+    {
+        "chunk_id": "chunk_21",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 4,
+        "section_name": "Figure 2",
+        "content": "The image contains multiple charts and graphs. The top left is a bar chart with four data series labeled A, B, C, and D, showing values across three categories numbered 1, 2, and 3. The top right is a bubble chart with axes labeled from 80 to 102 on the vertical axis and 0 to 60 on the horizontal axis, with bubble sizes representing different values. The bottom left is a line chart with three data series labeled A, B, and C, showing values across 11 categories numbered 1 to 11. The bottom right contains two smaller charts: the top one is a line chart labeled A with values from 0 to 30 across 12 categories numbered 1 to 12, and the bottom one is a bar chart labeled B with values up to 300 across 12 categories numbered 1 to 12."
+    },
+    {
+        "chunk_id": "chunk_22",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 5,
+        "section_name": "Figure 3",
+        "content": "The image shows a person holding a smartphone displaying a home automation app interface. The screen shows controls for various devices, including lights, a thermostat, and security cameras. In the background, there is a smart home control panel mounted on the wall, with icons for lighting, security, and other home functions. The setting appears to be a modern, well-lit room with minimalistic decor."
+    },
+    {
+        "chunk_id": "chunk_23",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 5,
+        "section_name": "Figure 4",
+        "content": "The image shows a person holding a smartphone displaying a smart home control app interface. The app screen features various icons for controlling different aspects of a home, such as lighting, thermostat, security, music, and electricity. In the background, there is a modern living room with a sofa, a coffee table, and a framed picture on the wall. The setting appears to be a cozy indoor environment with natural light coming through a window."
+    },
+    {
+        "chunk_id": "chunk_24",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 6,
+        "section_name": "Figure 5",
+        "content": "The image shows a circle divided into three colored segments: red, blue, and yellow. The red segment occupies the largest portion of the circle, followed by the yellow segment, and the blue segment is the smallest. The boundaries between the segments are straight lines radiating from the center of the circle."
+    },
+    {
+        "chunk_id": "chunk_25",
+        "chunk_type": "image",
+        "source_file": "sample.pdf",
+        "page_number": 6,
+        "section_name": "Figure 6",
+        "content": "The image shows a series of vertical black bars with white spaces between them, arranged in a grid-like pattern. The white spaces contain small black dots arranged in a dotted grid. The black bars appear to be evenly spaced and have a consistent width throughout the image. The overall effect is a structured, repeating pattern of bars and dots."
+    }
+]
