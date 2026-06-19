@@ -9,6 +9,7 @@ dependencies = [
     "llama-index>=0.14.22",
     "networkx>=3.4.2",
     "pdfplumber>=0.11.10",
+    "pillow>=12.2.0",
     "pymupdf>=1.27.2.3",
     "python-dotenv>=1.2.2",
     "pyvis>=0.3.2",

@@ -1,0 +1,24 @@
+{
+  "file_name": "sample.pdf",
+  "file_path": "C:\\Users\\vaibh\\Desktop\\Dell-FutureMinds\\data\\pdfs\\sample.pdf",
+  "total_pages": 1,
+  "summary": {
+    "text_blocks": 0,
+    "tables": 0,
+    "images": 1
+  },
+  "texts": [],
+  "tables": [],
+  "images": [
+    {
+      "page_number": 1,
+      "section_name": "Figure 1",
+      "image_index": 0,
+      "image_path": "output\\images\\sample_p1_img1.jpeg",
+      "caption": "No caption found",
+      "width": 2952,
+      "height": 3932,
+      "block_type": "image"
+    }
+  ]
+}
